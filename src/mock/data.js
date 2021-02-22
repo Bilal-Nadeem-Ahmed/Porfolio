@@ -9,7 +9,7 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
+  title: 'Bilal Nadeem Ahmed',
   name: 'Bilal Nadeem Ahmed',
   subtitle: 'JS Developer',
   cta: '',
@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'reactVatCalculator.PNG',
     title: ' Vat Calculator',
     info:
-      'A simple web app made using React made for calculating the balances due when preparing quartarly VAT returns',
+      'A simple web app made using React for calculating the balances due when preparing quarterly VAT returns',
     info2: '',
     url: 'https://bilal-nadeem-ahmed.github.io/vat-calc-react/',
     repo: 'https://github.com/Bilal-Nadeem-Ahmed/vat-calc-react', // if no repo, the button will not show up
@@ -49,7 +49,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'reactQuizApp.PNG',
     title: 'A Simple Quiz App',
-    info: 'A simple quiz i built while learning React',
+    info: 'A quiz I built while learning React',
     info2: '',
     url: 'https://bilal-nadeem-ahmed.github.io/React-Quiz-App/',
     repo: 'https://github.com/Bilal-Nadeem-Ahmed/React-Quiz-App', // if no repo, the button will not show up
