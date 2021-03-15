@@ -47,10 +47,10 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'crypt.PNG',
-    title: 'An app that lists 7 trending Cryptocurrencies',
-    info: 'Built using the coingeckAPI',
-    info2: 'I also used Next.js and charts.js library',
+    img: 'crypt.png',
+    title: 'Cryptracker',
+    info: 'An app that lists 7 trending Cryptocurrencies',
+    info2: 'Built using the coingecko API, Next.js and charts.js library',
     url: 'https://cryptrackerr.vercel.app/',
     repo: 'https://github.com/Bilal-Nadeem-Ahmed/chart-js', // if no repo, the button will not show up
   },
