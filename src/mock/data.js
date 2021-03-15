@@ -9,7 +9,7 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Bilal Nadeem Ahmed',
+  title: 'Hi! I\'m',
   name: 'Bilal Nadeem Ahmed',
   subtitle: 'JS Developer',
   cta: '',
@@ -44,6 +44,15 @@ export const projectsData = [
     info2: 'Built using Materialize CSS',
     url: 'https://bilal-nadeem-ahmed.github.io/Notts-Plumbing-Services/',
     repo: 'https://github.com/Bilal-Nadeem-Ahmed/Notts-Plumbing-Services', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'crypt.PNG',
+    title: 'An app that lists 7 trending Cryptocurrencies',
+    info: 'Built using the coingeckAPI',
+    info2: 'I also used Next.js and charts.js library',
+    url: 'https://cryptrackerr.vercel.app/',
+    repo: 'https://github.com/Bilal-Nadeem-Ahmed/chart-js', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
