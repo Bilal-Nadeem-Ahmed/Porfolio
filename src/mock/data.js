@@ -28,13 +28,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'reactVatCalculator.PNG',
-    title: ' Vat Calculator',
-    info:
-      'A simple web app made using React for calculating the balances due when preparing quarterly VAT returns',
-    info2: '',
-    url: 'https://bilal-nadeem-ahmed.github.io/vat-calc-react/',
-    repo: 'https://github.com/Bilal-Nadeem-Ahmed/vat-calc-react', // if no repo, the button will not show up
+    img: 'himm.png',
+    title: 'Himmah',
+    info: 'A recreation and improvement on a page for a client',
+    info2: 'Built using Next.js , React and charts.js library',
+    url: 'https://himmah.vercel.app/',
+    repo: 'https://github.com/Bilal-Nadeem-Ahmed/Himmah', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -54,6 +53,18 @@ export const projectsData = [
     url: 'https://cryptrackerr.vercel.app/',
     repo: 'https://github.com/Bilal-Nadeem-Ahmed/chart-js', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'reactVatCalculator.PNG',
+    title: ' Vat Calculator',
+    info:
+      'A simple web app made using React for calculating the balances due when preparing quarterly VAT returns',
+    info2: '',
+    url: 'https://bilal-nadeem-ahmed.github.io/vat-calc-react/',
+    repo: 'https://github.com/Bilal-Nadeem-Ahmed/vat-calc-react', // if no repo, the button will not show up
+  },
+  
+  
   {
     id: nanoid(),
     img: 'reactQuizApp.PNG',
