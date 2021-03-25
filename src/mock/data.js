@@ -37,15 +37,6 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'nottsPlumbinServices.PNG',
-    title: 'Notts Plumbing Services',
-    info: 'Simple web page for a local plumbing business',
-    info2: 'Built using Materialize CSS',
-    url: 'https://bilal-nadeem-ahmed.github.io/Notts-Plumbing-Services/',
-    repo: 'https://github.com/Bilal-Nadeem-Ahmed/Notts-Plumbing-Services', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'crypt.png',
     title: 'Cryptracker',
     info: 'An app that lists 7 trending Cryptocurrencies',
@@ -63,6 +54,17 @@ export const projectsData = [
     url: 'https://bilal-nadeem-ahmed.github.io/vat-calc-react/',
     repo: 'https://github.com/Bilal-Nadeem-Ahmed/vat-calc-react', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'nottsPlumbinServices.PNG',
+    title: 'Notts Plumbing Services',
+    info: 'Simple web page for a local plumbing business',
+    info2: 'Built using Materialize CSS',
+    url: 'https://bilal-nadeem-ahmed.github.io/Notts-Plumbing-Services/',
+    repo: 'https://github.com/Bilal-Nadeem-Ahmed/Notts-Plumbing-Services', // if no repo, the button will not show up
+  },
+ 
+  
   
   
   {
