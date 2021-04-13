@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a Front-End Web Developer living in Nottingham',
   paragraphTwo: 'I have experience with HTML, CSS, Javascript, Sass, Bootstrap, React & Git',
   paragraphThree: 'Please Contact me for any more information',
-  resume: 'https://drive.google.com/file/d/1O1Pm1rDfnSeYgWJEvwP6_FvdQPhTQ12y/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1Oq-V_vomTcHslEvk74UgIex19omjroxZ/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
