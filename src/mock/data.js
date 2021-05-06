@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'asimpleguide.dev',
     info: 'This my is personal blog. Take a look at it\'s about section if you want to know more about me',
     info2: 'Built using Next.js , React and charts.js library',
-    url: 'https://asimpleguide.vercel.app/',
+    url: 'https://www.asimpleguide.dev/',
     repo: '', // if no repo, the button will not show up
   },
   {
