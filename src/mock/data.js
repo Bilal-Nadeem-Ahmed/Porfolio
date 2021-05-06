@@ -28,6 +28,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'blog.png',
+    title: 'asimpleguide.dev',
+    info: 'This my is personal blog. Take a look at it\'s about section if you want to know more about me',
+    info2: 'Built using Next.js , React and charts.js library',
+    url: 'https://asimpleguide.vercel.app/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'himm.png',
     title: 'Himmah',
     info: 'A recreation and improvement on a page for a client',
